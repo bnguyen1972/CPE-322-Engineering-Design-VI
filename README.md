@@ -29,4 +29,4 @@
 
 `this is example of what code text would look like`
 ---
-![alt text](smiski_at_work.jpg)
+![alt text](image.jpg)
