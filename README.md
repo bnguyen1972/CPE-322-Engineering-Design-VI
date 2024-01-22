@@ -7,6 +7,7 @@
 > a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 ---
 **Learning Objectives**
+
 *After successful completion of this course, students will be able to:*
 
 1. Formulate problems correctly
