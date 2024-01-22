@@ -29,4 +29,4 @@
 
 `this is example of what code text would look like`
 ---
-!{Smiski](smiski_at_work.jpeg)
+!{Smiski](smiski_at_work.jpg)
