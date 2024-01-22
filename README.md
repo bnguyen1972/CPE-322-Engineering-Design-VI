@@ -19,6 +19,7 @@
 7. Hone written and oral communication skills
 ---
 **Course Requirememts**
+
 *Required Submission*
 
 - Weekly Assignments
