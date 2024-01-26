@@ -25,10 +25,15 @@
 - Weekly Assignments
 - Labs
 ---
-[Current Repo Link](https://github.com/bnguyen1972/CPE-322-Engineering-Design-VI)
+[Mark Down Cheat Sheet]([https://github.com/bnguyen1972/CPE-322-Engineering-Design-VI](https://www.markdownguide.org/cheat-sheet/))
 
 ---
 
 `this is example of what code text would look like`
 ---
+**A Little About Me**
+
+I am a 3/4 Computer Engineer at Stevens Institute of Technology. I like software but I'm more interested in hardware. In high school I was in the Project Lead THe Way Program which allowed me to take a lot of engineering classes and ultimately influenced what I wanted to pursue in my career. I hope to get my master's degree after bachelors. 
+---
+
 ![Smiski](smiski_at_work.jpg)
