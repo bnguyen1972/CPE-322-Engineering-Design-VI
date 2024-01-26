@@ -30,7 +30,9 @@
 ---
 
 `this is example of what code text would look like`
+
 ---
+
 **A Little About Me**
 
 >I am a 3/4 Computer Engineer at Stevens Institute of Technology. I like software but I'm more interested in hardware.
