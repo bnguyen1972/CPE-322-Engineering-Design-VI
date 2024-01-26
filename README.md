@@ -25,7 +25,7 @@
 - Weekly Assignments
 - Labs
 ---
-[Mark Down Cheat Sheet]([https://www.example.com](https://www.markdownguide.org/cheat-sheet/))
+[Mark Down Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
 
