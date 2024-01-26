@@ -25,7 +25,7 @@
 - Weekly Assignments
 - Labs
 ---
-[Mark Down Cheat Sheet]([https://github.com/bnguyen1972/CPE-322-Engineering-Design-VI](https://www.markdownguide.org/cheat-sheet/))
+[Mark Down]([https://github.com/bnguyen1972/CPE-322-Engineering-Design-VI](https://www.markdownguide.org/cheat-sheet/))
 
 ---
 
