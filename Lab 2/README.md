@@ -61,35 +61,32 @@ $ mkdir demo
 $ cd demo
 ![hostname](CPE322_lab2_im10.png)
 
-$ nano file
+$ nano file and $ cat file
 ![hostname](CPE322_lab2_im11.png)
 
-$ cat file
+$ cp file file1
 ![hostname](CPE322_lab2_im12.png)
 
-$ cp file file1
+$ mv file file2
 ![hostname](CPE322_lab2_im13.png)
 
-$ mv file file2
-![hostname](CPE322_lab2_im14.png)
-
 $ rm file2
-![hostname](CPE322_lab2_im15.png)
+![hostname](CPE322_lab2_im14.png)
 
 $ clear
 *'clear' simply clears the window*
 
 $ man uname
-![hostname](CPE322_lab2_im16.png)
+![hostname](CPE322_lab2_im15.png)
 
 $ uname -a
-![hostname](CPE322_lab2_im17.png)
+![hostname](CPE322_lab2_im16.png)
 
 $ ifconfig
-![hostname](CPE322_lab2_im18.png)
+![hostname](CPE322_lab2_im17.png)
 
 $ ping localhost
-![hostname](CPE322_lab2_im19.png)
+![hostname](CPE322_lab2_im18.png)
 
 $ netstat
 ![hostname](CPE322_lab2_im19.png)
