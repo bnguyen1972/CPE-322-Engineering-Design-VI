@@ -46,20 +46,17 @@ $ pwd
 $ git clone https://github.com/kevinwlu/iot.git
 ![hostname](CPE322_lab2_im5.png)
 
-$ cd iot
+$ cd iot and $ls
 ![hostname](CPE322_lab2_im6.png)
 
-$ ls
+$ cd
 ![hostname](CPE322_lab2_im7.png)
 
-$ cd
+$ df
 ![hostname](CPE322_lab2_im8.png)
 
-$ df
-![hostname](CPE322_lab2_im9.png)
-
 $ mkdir demo
-![hostname](CPE322_lab2_im10.png)
+![hostname](CPE322_lab2_im9.png)
 
 $ cd demo
 ![hostname](CPE322_lab2_im1.png)
