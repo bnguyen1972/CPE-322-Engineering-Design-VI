@@ -32,5 +32,5 @@
 **The following images are the execution of these command lines**
 
 $ hostname
-![hostname](CPE322_lab2_im1)
+![hostname](CPE322_lab2_im1.jpg)
 
