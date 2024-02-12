@@ -46,7 +46,7 @@ $ pwd
 $ git clone https://github.com/kevinwlu/iot.git
 ![hostname](CPE322_lab2_im5.png)
 
-$ cd iot and $ls
+$ cd iot and $ ls
 ![hostname](CPE322_lab2_im6.png)
 
 $ cd
@@ -59,19 +59,38 @@ $ mkdir demo
 ![hostname](CPE322_lab2_im9.png)
 
 $ cd demo
-![hostname](CPE322_lab2_im1.png)
+![hostname](CPE322_lab2_im10.png)
 
 $ nano file
-![hostname](CPE322_lab2_im1.png)
+![hostname](CPE322_lab2_im11.png)
 
 $ cat file
+![hostname](CPE322_lab2_im12.png)
+
 $ cp file file1
+![hostname](CPE322_lab2_im13.png)
+
 $ mv file file2
+![hostname](CPE322_lab2_im14.png)
+
 $ rm file2
+![hostname](CPE322_lab2_im15.png)
+
 $ clear
+*'clear' simply clears the window*
+
 $ man uname
+![hostname](CPE322_lab2_im16.png)
+
 $ uname -a
+![hostname](CPE322_lab2_im17.png)
+
 $ ifconfig
+![hostname](CPE322_lab2_im18.png)
+
 $ ping localhost
+![hostname](CPE322_lab2_im19.png)
+
 $ netstat
+![hostname](CPE322_lab2_im19.png)
 
