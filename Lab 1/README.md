@@ -6,4 +6,9 @@
 
 **Half Adder**
 
-![alt text](EE 322 lab1.PNG)
+![alt text](EE_322_lab1.1.PNG)
+![alt text](EE_322_lab1.PNG)
+
+**D Flip_Flop**
+![alt text](EE_322_lab1.2.PNG)
+![alt text](EE_322_lab1.3.PNG)
