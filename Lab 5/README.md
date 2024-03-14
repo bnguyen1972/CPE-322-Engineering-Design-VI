@@ -1,4 +1,4 @@
-**For this lab, students were tasked with downloading PAHO-MQTT**
+**For this lab, students were tasked with downloading PAHO-MQTT and running subcpu.py and pubcpu.py simultaneously in two terminal windows**
 
 *Using this command "pip install PAHO-MQTT" did not work for me so instead the command "pip install paho-mqtt==1.6.1" was used*
 
