@@ -6,7 +6,6 @@
 ![hostname](CPE_322_LAB10_5.png)
 ![hostname](CPE_322_LAB10_6.png)
 ![hostname](CPE_322_LAB10_7.png)
-![hostname](CPE_322_LAB10_8.png)
 ![hostname](CPE_322_LAB10_9.png)
 ![hostname](CPE_322_LAB10_10.png)
 ![hostname](CPE_322_LAB10_11.png)
