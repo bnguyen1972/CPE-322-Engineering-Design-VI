@@ -39,9 +39,10 @@
 *first two left screens outputs should be swapped for correct order*
 
 *Terminal 1*
+![hostname](CPE_322_LAB10_14.png)
 ![hostname](CPE_322_LAB10_11.png)
 
 *Terminal 2*
 ![hostname](CPE_322_LAB10_12.png)
 ![hostname](CPE_322_LAB10_13.png)
-![hostname](CPE_322_LAB10_14.png)
+
