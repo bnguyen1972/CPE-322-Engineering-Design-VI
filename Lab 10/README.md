@@ -3,6 +3,8 @@
 **Run hash_value.py twice and compare results**
 ![hostname](CPE_322_LAB10_1.png)
 
+The first and second runs of the hash_value.py output the same values for 1, 1.0, and 3.4. However, the hash results for Python, 'a tuple of values,' and 'an object of a person' is different between the two hash_value.py runs.
+
 **SHA-2 Secure Hash Algorithm**
 ![hostname](CPE_322_LAB10_3.png)
 
