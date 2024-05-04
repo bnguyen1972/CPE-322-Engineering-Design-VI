@@ -1,7 +1,7 @@
 # Lab 7A: ThingSpeak
 
 ## Review and run thingspeak_feed.py
-
+![hostname](CPE322_Lab7_p9.png)
 ![hostname](CPE322_Lab7_p1.png)
 ![hostname](CPE322_Lab7_p2.png)
 ![hostname](CPE322_Lab7_p3.png)
