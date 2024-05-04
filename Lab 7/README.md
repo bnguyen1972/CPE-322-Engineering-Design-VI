@@ -10,9 +10,13 @@
 # Lab 7B: Google Sheets
 
 ## Sign up and log in the Google Cloud Platform Identity and Access Management (IAM)
+![hostname](CPE322_Lab7_p11.png)
+
 ## Install gspread and oauth2client
 ![hostname](CPE322_Lab7_p7.png)
 ![hostname](CPE322_Lab7_p8.png)
+
+## Copy system_info.py and rpi_spreadsheet.py to ~/demo
 ![hostname](CPE322_Lab7_p5.png)
 ![hostname](CPE322_Lab7_p6.png)
 
