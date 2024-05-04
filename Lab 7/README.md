@@ -20,7 +20,10 @@
 ## If the JSON key file (* = xxxxxxxxxxxx) is on a different computer, secure copy it to the same directory as rpi_spreadsheet.py
 ![hostname](CPE322_Lab7_p12.png)
 
+## Edit rpi_spreadsheet.py
+![hostname](CPE322_Lab7_p13.png)
 
+## Run rpi_spreadsheet.py
 ![hostname](CPE322_Lab7_p5.png)
 ![hostname](CPE322_Lab7_p6.png)
 
